@@ -9,7 +9,7 @@ I'm **[`Maffypeterpaul`](https://www.youtube.com/@Scratch_malayalam)**, A passio
 
 - **Name**: Maffy peterpaul
 - **From**: India
-- ** Cybersecurity Graduate** | **Coventry University** 
+- Cybersecurity Graduate | **Coventry University** 
 - I have experience in bug hunting, vulnerability assessment, penetration testing, and social engineering.
 - Continuously improving my knowledge of **Website Vulnerabilities** and **Cybersecurity Skills**.
 - I’m currently learning and exploring **advanced hacking techniques**, **networking**, and **cybersecurity certifications**.
