@@ -61,7 +61,7 @@ I'm **[`Maffypeterpaul`].(linkedin.com/in/maffy-peterpaul)**, A passionate Cyber
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
+| **[Network-Traffic-Analysis-with-Wireshark](https://github.com/)**    | Short Description |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
