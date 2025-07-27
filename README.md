@@ -61,7 +61,7 @@ I'm **[`Maffypeterpaul`].(linkedin.com/in/maffy-peterpaul)**, A passionate Cyber
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[Network-Traffic-Analysis-with-Wireshark](https://github.com/Maffypeterp/Network-Traffic-Analysis-with-Wireshark)**    | Network traffic analysis project involved capturing and analyzing network traffic using Wireshark to evaluate network behavior, identify potential performance issues, and detect any abnormal or suspicious activity |
-| **[Password-Cracking-Techniques](https://github.com/Maffypeterp/Password-Cracking-Techniques)**    | Short Description |
+| **[Password-Cracking-Techniques](https://github.com/Maffypeterp/Password-Cracking-Techniques)**    | Password cracking refers to the process of recovering passwords from data stored or transmitted by a computer system |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
 ---
