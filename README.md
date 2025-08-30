@@ -58,9 +58,13 @@ I'm **Maffypeterpaul**, A passionate Cybersecurity Graduate with a strong founda
 <h2 id=" Projects" align=''>Home Lab Projects </h2>
 
 **[Creating a Home Lab](https://github.com/Maffypeterp/Creating-a-Home-Lab)**
+
 **[Network-Traffic-Analysis-with-Wireshark](https://github.com/Maffypeterp/Network-Traffic-Analysis-with-Wireshark)** 
+
 **[Active Directory](https://github.com/Maffypeterp/Active-Directory)**
+
 **[Password-Cracking-Techniques](https://github.com/Maffypeterp/Password-Cracking-Techniques)**    
+
 **[using-Cisco-Packet-Tracer](https://github.com/Maffypeterp/Setting-up-and-using-Cisco-Packet-Tracer)**
 
 
