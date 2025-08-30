@@ -55,13 +55,13 @@ I'm **Maffypeterpaul**, A passionate Cybersecurity Graduate with a strong founda
 
 ---
 
-<h2 id="Projects" align=''> Projects </h2>
+<h2 id="Home Lab Projects" align=''> Projects </h2>
 
-
-| **Project**      | **Description**                                                                                  |
-|-------------------|--------------------------------------------------------------------------------------------------|
-| **[Network-Traffic-Analysis-with-Wireshark](https://github.com/Maffypeterp/Network-Traffic-Analysis-with-Wireshark)**    | Network traffic analysis project involved capturing and analyzing network traffic using Wireshark to evaluate network behavior, identify potential performance issues, and detect any abnormal or suspicious activity |
-| **[Password-Cracking-Techniques](https://github.com/Maffypeterp/Password-Cracking-Techniques)**    | Password cracking refers to the process of recovering passwords from data stored or transmitted by a computer system |
-| **[Setting-up-and-using-Cisco-Packet-Tracer](https://github.com/Maffypeterp/Setting-up-and-using-Cisco-Packet-Tracer)**    | Cisco Packet Tracer is a visual, interactive network simulation tool used for building, configuring, and troubleshooting virtual networks, ideal for learning networking concepts | 
+                                                                                |
+**[Creating a Home Lab]
+**[Network-Traffic-Analysis-with-Wireshark](https://github.com/Maffypeterp/Network-Traffic-Analysis-with-Wireshark)**  
+**[Password-Cracking-Techniques](https://github.com/Maffypeterp/Password-Cracking-Techniques)**    
+**[using-Cisco-Packet-Tracer](https://github.com/Maffypeterp/Setting-up-and-using-Cisco-Packet-Tracer)**
+**[Active Directory] 
 
 ---
