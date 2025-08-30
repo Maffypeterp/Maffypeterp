@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **[Maffypeterpaul].(https://linkedin.com/in/maffy-peterpaul)**, A passionate Cybersecurity Graduate with a strong foundation in information security principles, threat analysis, and network defense. Eager to apply skills in ethical hacking, vulnerability assessment, and security operations to real-world challenges. Committed to continuous learning and contributing to a safer digital future.
+I'm **'Maffypeterpaul'**, A passionate Cybersecurity Graduate with a strong foundation in information security principles, threat analysis, and network defense. Eager to apply skills in ethical hacking, vulnerability assessment, and security operations to real-world challenges. Committed to continuous learning and contributing to a safer digital future.
 
 <a href="https://linkedin.com/in/maffy-peterpaul"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
