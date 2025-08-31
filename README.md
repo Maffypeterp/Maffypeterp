@@ -19,7 +19,7 @@ I'm **Maffypeterpaul**, A passionate Cybersecurity Graduate with a strong founda
 
 ---
 
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+<h2 id="knowledge_skills" align=''>📚  Knowledge & Skills </h2>
 
 <br>
 
@@ -43,7 +43,7 @@ I'm **Maffypeterpaul**, A passionate Cybersecurity Graduate with a strong founda
 </div>
 
 ---
-<h2 id="Certifications" align=''> Certifications </h2>
+<h2 id="Certifications" align=''>🎓  Certifications </h2>
 
 <div>
 <img src="https://img.shields.io/badge/Google-Cybersecurity%20Certified-blue?style=for-the-badge&color=000000" alt="Google Cybersecurity Certification" />
@@ -53,7 +53,7 @@ I'm **Maffypeterpaul**, A passionate Cybersecurity Graduate with a strong founda
 
 ---
 
-<h2 id=" Projects" align=''>Home Lab Projects </h2>
+<h2 id=" Projects" align=''>💻 Home Lab Projects </h2>
 
 - **[Creating a Home Lab](https://github.com/Maffypeterp/Creating-a-Home-Lab)**
 
