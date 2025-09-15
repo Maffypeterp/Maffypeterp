@@ -70,16 +70,16 @@ I'm **Maffypeterpaul**, A passionate Cybersecurity Graduate with a strong founda
 
 <h2 id="Vulnerability Management |  Remediation" align=''>⚠️ Vulnerability Management   |   Remediation </h2>
 
-- Vulnerability Management Program Implementation
+- **[Vulnerability Management Program Implementation](https://github.com/Maffypeterp/Vulnerability-Management-Program-Implementation)**
 
-- Programmatic Remediation of STIGs
+- **[Programmatic Remediation of STIGs]
 
 
 ---
 
-<h2 id="Security Operations|Thread Detection|Incident Response" align=''>🚨  Security Operations   |  Thread Detection  |  Incident Response </h2>
+<h2 id="Security Operations|Thread Detection|Incident Response" align=''>🚨  Security Operations   |  Thread Hunting  |  Incident Response </h2>
 
-- Threat Hunting Scenario (Tor Browser Usage)
+- **[Unauthorized Tor Browser Usage]
 
-- Implementing a SOC and Honeypot in Microsoft Azure
+- **[Implementing a SOC and Honeypot in Microsoft Azure]
   
