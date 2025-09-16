@@ -82,7 +82,7 @@ I'm **Maffypeterpaul**, A passionate Cybersecurity Graduate with a strong founda
 
 - **[Vulnerability Management Program Implementation](https://github.com/Maffypeterp/Vulnerability-Management-Program-Implementation)**
 
-- **[Programmatic Remediation of STIGs]
+- **[Programmatic Remediation of STIGs](https://github.com/Maffypeterp/Programmatic-Remediation-of-STIGs)
 
 
 ---
