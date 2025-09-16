@@ -87,9 +87,9 @@ I'm **Maffypeterpaul**, A passionate Cybersecurity Graduate with a strong founda
 
 ---
 
-<h2 id="Security Operations|Thread Detection|Incident Response" align=''>🚨  Security Operations   |  Thread Hunting  |  Incident Response </h2>
+<h2 id="Security Operations|Thread Detection|Incident Response" align=''>🚨  Thread Hunting    |   Security Operations     </h2>
 
 - **[Unauthorized Tor Browser Usage](https://github.com/Maffypeterp/Unauthorized-Tor-Browser-Usage)**
 
-- **[Implementing a SOC and Honeypot in Microsoft Azure]
+
   
