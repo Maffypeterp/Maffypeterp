@@ -87,7 +87,7 @@ I'm **Maffypeterpaul**, A passionate Cybersecurity Graduate with a strong founda
 
 ---
 
-<h2 id="Security Operations|Thread Detection|Incident Response" align=''>🚨  Thread Hunting    |   Security Operations     </h2>
+<h2 id="Security Operations|Thread Detection|Incident Response" align=''>🚨  Threat Hunting    |   Security Operations   |   Icident Response   </h2>
 
 - **[Unauthorized Tor Browser Usage](https://github.com/Maffypeterp/Unauthorized-Tor-Browser-Usage)**
 
